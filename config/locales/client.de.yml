@@ -8,7 +8,7 @@ de:
   js:
     errors:
       explorer:
-        no_semicolons: "Entfernt die Semikolons aus der Anfrage."
+        no_semicolons: "Entfernt die Semikolons aus der Anfrage"
         dirty: "Du musst die Anfrage speicher, bevor du sie startest."
     explorer:
       admins_only: "Dieser Daten-Explorer ist nur für Administratoren verfügbar."
