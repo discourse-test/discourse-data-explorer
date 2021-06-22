@@ -21,7 +21,7 @@ it:
         label: "Importa"
         modal: "Importa Una Ricerca"
       help:
-        label: "Guida"
+        label: "Aiuto"
       schema:
         title: "Schema del Database "
         filter: "Cerca..."
