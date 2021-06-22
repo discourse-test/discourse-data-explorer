@@ -20,6 +20,8 @@ it:
       import:
         label: "Importa"
         modal: "Importa Una Ricerca"
+      help:
+        label: "Aiuto"
       schema:
         title: "Schema del Database "
         filter: "Cerca..."
